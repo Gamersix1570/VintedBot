@@ -1,0 +1,5 @@
+# Node
+app/node_modules
+
+# TS
+app/dist
